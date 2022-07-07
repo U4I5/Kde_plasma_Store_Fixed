@@ -15,4 +15,4 @@
  > $ sudo apt update && sudo apt full-upgrade -y
 
 ## Screenshot 
-(/assets/images/tux.png)
+![Drag Racing](KdeStore.png)
