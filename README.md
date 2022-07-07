@@ -13,3 +13,6 @@
  #
  #
  > $ sudo apt update && sudo apt full-upgrade -y
+
+## Screenshot 
+(/assets/images/tux.png)
